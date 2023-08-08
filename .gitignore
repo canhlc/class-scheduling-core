@@ -1,0 +1,12 @@
+.idea
+__pycache__
+.env
+.DS_Store
+*vscode
+
+result.csv
+*.old.csv
+
+test*
+example.py
+algorithm_old/*
